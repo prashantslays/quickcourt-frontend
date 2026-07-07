@@ -3,13 +3,12 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Home from "./pages/Home";
 import Login from "./pages/Login";
 import Signup from "./pages/Signup";
-import VenueListing from "./pages/Venuelisting";
-import VenueDetails from "./pages/Venuedetails";
+import VenueListing from "./pages/VenueListing";
+import VenueDetails from "./pages/VenueDetails";
 import Booking from "./pages/Booking";
 import Profile from "./pages/Profile";
-import OwnerDashboard from "./pages/Ownerdashboard";
-import AdminDashboard from "./pages/adminDashboard";
-
+import OwnerDashboard from "./pages/OwnerDashboard";
+import AdminDashboard from "./pages/AdminDashboard";
 function App() {
   return (
     <BrowserRouter>
