@@ -8,7 +8,7 @@ import VenueDetails from "./pages/Venuedetails";
 import Booking from "./pages/Booking";
 import Profile from "./pages/Profile";
 import OwnerDashboard from "./pages/Ownerdashboard";
-import AdminDashboard from "./pages/Admindashboard";
+import AdminDashboard from "./pages/adminDashboard";
 
 function App() {
   return (
